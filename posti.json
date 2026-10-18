@@ -1,0 +1,1069 @@
+[
+ {
+  "id": "vegueta",
+  "nome": "Vegueta e Triana",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Las Palmas",
+  "lat": 28.099365,
+  "lon": -15.414466,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_vegueta",
+  "osm": "https://www.openstreetmap.org/node/347621880",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Casa_en_el_barrio_de_Vegueta%2C_que_fue_del_etn%C3%B3grafo_P%C3%A9rez_Cruz%2C_en_Las_Palmas_de_Gran_Canaria%2C_Espa%C3%B1a.jpg/500px-Casa_en_el_barrio_de_Vegueta%2C_que_fue_del_etn%C3%B3grafo_P%C3%A9rez_Cruz%2C_en_Las_Palmas_de_Gran_Canaria%2C_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "CARLOS TEIXIDOR CADENAS",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Casa_en_el_barrio_de_Vegueta,_que_fue_del_etn%C3%B3grafo_P%C3%A9rez_Cruz,_en_Las_Palmas_de_Gran_Canaria,_Espa%C3%B1a.jpg"
+  }
+ },
+ {
+  "id": "elder",
+  "nome": "Museo Elder",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Las Palmas",
+  "lat": 28.141231,
+  "lon": -15.429661,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_elder",
+  "osm": "https://www.openstreetmap.org/node/335686723",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Museo_Elder_de_la_Ciencia_y_la_Tecnolog%C3%ADa.jpg/500px-Museo_Elder_de_la_Ciencia_y_la_Tecnolog%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Beta15",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Museo_Elder_de_la_Ciencia_y_la_Tecnolog%C3%ADa.jpg"
+  }
+ },
+ {
+  "id": "poema",
+  "nome": "Poema del Mar",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Las Palmas",
+  "lat": 28.144602,
+  "lon": -15.428223,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_poema",
+  "osm": "https://www.openstreetmap.org/way/678609025",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/17._Dezember_2017_Er%C3%B6ffung_des_Aquariums_Poema_del_Mar._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Holger Uwe Schmitt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:17._Dezember_2017_Er%C3%B6ffung_des_Aquariums_Poema_del_Mar._02.jpg"
+  }
+ },
+ {
+  "id": "castillo_luz",
+  "nome": "Castillo de la Luz",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Las Palmas",
+  "lat": 28.14864,
+  "lon": -15.424801,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_castillo",
+  "osm": "https://www.openstreetmap.org/way/126808548",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Castillo_de_la_Luz_D81_6161_%2832252019751%29.jpg/500px-Castillo_de_la_Luz_D81_6161_%2832252019751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Bengt Nyman from Vaxholm, Sweden",
+   "licenza": "CC BY 2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Castillo_de_la_Luz_D81_6161_(32252019751).jpg"
+  }
+ },
+ {
+  "id": "confital",
+  "nome": "El Confital",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Las Palmas",
+  "lat": 28.159452,
+  "lon": -15.435428,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_confital",
+  "osm": "https://www.openstreetmap.org/way/701073506",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/La_playa_del_Confital_en_Las_Palmas_de_Gran_Canaria_%2816239773445%29.jpg/500px-La_playa_del_Confital_en_Las_Palmas_de_Gran_Canaria_%2816239773445%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "El Coleccionista de Instantes  Fotografía &amp; Video",
+   "licenza": "CC BY-SA 2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:La_playa_del_Confital_en_Las_Palmas_de_Gran_Canaria_(16239773445).jpg"
+  }
+ },
+ {
+  "id": "canteras",
+  "nome": "Playa de las Canteras",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Las Palmas",
+  "lat": 28.139552,
+  "lon": -15.436633,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_canteras",
+  "osm": "https://www.openstreetmap.org/way/30598416",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Las_Palmas_Playa_de_las_Canteras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Uwe Barghaan",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Las_Palmas_Playa_de_las_Canteras.jpg"
+  }
+ },
+ {
+  "id": "bandama",
+  "nome": "Caldera de Bandama",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Las Palmas",
+  "lat": 28.032098,
+  "lon": -15.454474,
+  "bot": "https://t.me/grancabariantnbot?start=sec_lp_bandama",
+  "osm": "https://www.openstreetmap.org/node/5955125644",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Caldera_de_Bandama_01.jpg/500px-Caldera_de_Bandama_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "H. Zell",
+   "licenza": "CC BY-SA 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Caldera_de_Bandama_01.jpg"
+  }
+ },
+ {
+  "id": "arucas",
+  "nome": "Arucas",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.118449,
+  "lon": -15.523224,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_arucas",
+  "osm": "https://www.openstreetmap.org/node/304078581",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Fachada_de_la_Iglesia_Matriz_de_San_Juan_Bautista_%28Arucas%29.jpg/500px-Fachada_de_la_Iglesia_Matriz_de_San_Juan_Bautista_%28Arucas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Jl FilpoC",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Fachada_de_la_Iglesia_Matriz_de_San_Juan_Bautista_(Arucas).jpg"
+  }
+ },
+ {
+  "id": "arehucas",
+  "nome": "Destilerías Arehucas",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Nord",
+  "lat": 28.119306,
+  "lon": -15.528439,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_arehucas",
+  "osm": "https://www.openstreetmap.org/node/12201247806"
+ },
+ {
+  "id": "marquesa",
+  "nome": "Jardín de la Marquesa",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Nord",
+  "lat": 28.125003,
+  "lon": -15.528407,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_marquesa",
+  "osm": "https://www.openstreetmap.org/way/51542759"
+ },
+ {
+  "id": "san_juan_arucas",
+  "nome": "Iglesia de San Juan Bautista",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Nord",
+  "lat": 28.118572,
+  "lon": -15.523062,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_sanjuan",
+  "osm": "https://www.openstreetmap.org/way/521599246"
+ },
+ {
+  "id": "firgas",
+  "nome": "Firgas",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.107211,
+  "lon": -15.563237,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_firgas",
+  "osm": "https://www.openstreetmap.org/node/304079598",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Monumento_del_Paseo_de_Gran_Canaria%2C_Firgas.jpg/500px-Monumento_del_Paseo_de_Gran_Canaria%2C_Firgas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Jl FilpoC",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Monumento_del_Paseo_de_Gran_Canaria,_Firgas.jpg"
+  }
+ },
+ {
+  "id": "moya",
+  "nome": "Moya",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.110766,
+  "lon": -15.583223,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_moya",
+  "osm": "https://www.openstreetmap.org/relation/340780",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Moya%2C_Gran_Canaria.jpg/500px-Moya%2C_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerda Arendt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Moya,_Gran_Canaria.jpg"
+  }
+ },
+ {
+  "id": "tilos",
+  "nome": "Los Tilos de Moya",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Nord",
+  "lat": 28.087525,
+  "lon": -15.593732,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_tilos",
+  "osm": "https://www.openstreetmap.org/way/254866656"
+ },
+ {
+  "id": "tomas_morales",
+  "nome": "Casa-Museo Tomás Morales",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Nord",
+  "lat": 28.110564,
+  "lon": -15.583604,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_morales",
+  "osm": "https://www.openstreetmap.org/way/1319905094"
+ },
+ {
+  "id": "guia",
+  "nome": "Santa María de Guía",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.139052,
+  "lon": -15.631828,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_guia",
+  "osm": "https://www.openstreetmap.org/relation/345440",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Guia_NZ7_0596_%2849469082666%29.jpg/500px-Guia_NZ7_0596_%2849469082666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Bengt Nyman from Vaxholm, Sweden",
+   "licenza": "CC BY 2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Guia_NZ7_0596_(49469082666).jpg"
+  }
+ },
+ {
+  "id": "cenobio",
+  "nome": "Cenobio de Valerón",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Nord",
+  "lat": 28.13896,
+  "lon": -15.604439,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_cenobio",
+  "osm": "https://www.openstreetmap.org/way/126733848"
+ },
+ {
+  "id": "galdar",
+  "nome": "Gáldar",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.144241,
+  "lon": -15.654251,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_galdar",
+  "osm": "https://www.openstreetmap.org/node/305460688",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Church_G%C3%A1ldar_2010.jpg/500px-Church_G%C3%A1ldar_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Felix König",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Church_G%C3%A1ldar_2010.jpg"
+  }
+ },
+ {
+  "id": "cueva_pintada",
+  "nome": "Cueva Pintada",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Nord",
+  "lat": 28.143595,
+  "lon": -15.655087,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_cueva",
+  "osm": "https://www.openstreetmap.org/way/95038214"
+ },
+ {
+  "id": "padron",
+  "nome": "Casa-Museo Antonio Padrón",
+  "tipo": "museo",
+  "icona": "🖼️",
+  "zona": "Nord",
+  "lat": 28.145663,
+  "lon": -15.654709,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_padron",
+  "osm": "https://www.openstreetmap.org/node/1402497222"
+ },
+ {
+  "id": "sardina",
+  "nome": "Sardina del Norte",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Nord",
+  "lat": 28.151807,
+  "lon": -15.693078,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_sardina",
+  "osm": "https://www.openstreetmap.org/node/1441041894",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Puerto_de_Sardina.jpg/500px-Puerto_de_Sardina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Rebexho",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Puerto_de_Sardina.jpg"
+  }
+ },
+ {
+  "id": "salinas_agaete",
+  "nome": "Piscine naturali Las Salinas",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Nord",
+  "lat": 28.105118,
+  "lon": -15.71181,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_salinas",
+  "osm": "https://www.openstreetmap.org/node/1695066250"
+ },
+ {
+  "id": "teror",
+  "nome": "Teror",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord",
+  "lat": 28.059,
+  "lon": -15.547565,
+  "bot": "https://t.me/grancabariantnbot?start=sec_n_teror",
+  "osm": "https://www.openstreetmap.org/relation/345436",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gran_Canaria-Teror-Nuestra_Senora_del_Pino-04-2015-gje.jpg/500px-Gran_Canaria-Teror-Nuestra_Senora_del_Pino-04-2015-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerd Eichmann",
+   "licenza": "CC BY 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Gran_Canaria-Teror-Nuestra_Senora_del_Pino-04-2015-gje.jpg"
+  }
+ },
+ {
+  "id": "agaete",
+  "nome": "Puerto de las Nieves e Agaete",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Nord-ovest",
+  "lat": 28.101724,
+  "lon": -15.710613,
+  "bot": "https://t.me/grancabariantnbot?start=sec_nw_agaete",
+  "osm": "https://www.openstreetmap.org/node/667809946",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Puerto_de_las_Nieves_2010.jpg/500px-Puerto_de_las_Nieves_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Felix König",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Puerto_de_las_Nieves_2010.jpg"
+  }
+ },
+ {
+  "id": "valle_agaete",
+  "nome": "Valle de Agaete",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Nord-ovest",
+  "lat": 28.061558,
+  "lon": -15.658904,
+  "bot": "https://t.me/grancabariantnbot?start=sec_nw_valle",
+  "osm": "https://www.openstreetmap.org/node/1400793505",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Valle_de_Agaete_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Toni Teror",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Valle_de_Agaete_-_panoramio.jpg"
+  }
+ },
+ {
+  "id": "tamadaba",
+  "nome": "Parque Natural de Tamadaba",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Nord-ovest",
+  "lat": 28.041339,
+  "lon": -15.721685,
+  "bot": "https://t.me/grancabariantnbot?start=parco_tamadaba",
+  "osm": "https://www.openstreetmap.org/way/254870805"
+ },
+ {
+  "id": "anden_verde",
+  "nome": "Andén Verde (GC-200)",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Nord-ovest",
+  "lat": 28.019126,
+  "lon": -15.785342,
+  "bot": "https://t.me/grancabariantnbot?start=sec_nw_anden",
+  "osm": "https://www.openstreetmap.org/way/52564412",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Riscos_del_And%C3%A9n_Verde_-_panoramio.jpg/500px-Riscos_del_And%C3%A9n_Verde_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Canarina",
+   "licenza": "CC BY-SA 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Riscos_del_And%C3%A9n_Verde_-_panoramio.jpg"
+  }
+ },
+ {
+  "id": "roque_nublo",
+  "nome": "Roque Nublo",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Centro",
+  "lat": 27.970815,
+  "lon": -15.612597,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_roque",
+  "osm": "https://www.openstreetmap.org/node/303985477",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Roque_Nublo_-_Gran_Canaria_01.jpg/500px-Roque_Nublo_-_Gran_Canaria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Rvr",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Roque_Nublo_-_Gran_Canaria_01.jpg"
+  }
+ },
+ {
+  "id": "pico_nieves",
+  "nome": "Pico de las Nieves",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Centro",
+  "lat": 27.961928,
+  "lon": -15.571773,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_pico",
+  "osm": "https://www.openstreetmap.org/node/948743580",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Pico_de_las_Nieves%2C_Gran_Canaria.jpg/500px-Pico_de_las_Nieves%2C_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerda Arendt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Pico_de_las_Nieves,_Gran_Canaria.jpg"
+  }
+ },
+ {
+  "id": "tejeda",
+  "nome": "Tejeda e Roque Bentayga",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Centro",
+  "lat": 27.995376,
+  "lon": -15.615366,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_tejeda",
+  "osm": "https://www.openstreetmap.org/relation/345438",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Roque_Nublo_-_Tejeda_-_Gran_Canaria.jpg/500px-Roque_Nublo_-_Tejeda_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Rvr",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Roque_Nublo_-_Tejeda_-_Gran_Canaria.jpg"
+  }
+ },
+ {
+  "id": "bentayga",
+  "nome": "Roque Bentayga",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Centro",
+  "lat": 27.991522,
+  "lon": -15.641761,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_tejeda",
+  "osm": "https://www.openstreetmap.org/node/518504791"
+ },
+ {
+  "id": "risco_caido",
+  "nome": "Risco Caído",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Centro",
+  "lat": 28.044782,
+  "lon": -15.661599,
+  "bot": "https://t.me/grancabariantnbot?start=parco_risco_caido",
+  "osm": "https://www.openstreetmap.org/node/4737113830"
+ },
+ {
+  "id": "pilancones",
+  "nome": "Pilancones",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Centro",
+  "lat": 27.872159,
+  "lon": -15.616547,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_pilancones",
+  "osm": "https://www.openstreetmap.org/way/255266397",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Morros_del_Pinar_%28MGK25958%29.jpg/500px-Morros_del_Pinar_%28MGK25958%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Markus G. Klötzer",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Morros_del_Pinar_(MGK25958).jpg"
+  }
+ },
+ {
+  "id": "fataga",
+  "nome": "Fataga",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Centro",
+  "lat": 27.887265,
+  "lon": -15.564281,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_fataga",
+  "osm": "https://www.openstreetmap.org/way/69899382",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Barranco_de_Fataga_03.JPG/500px-Barranco_de_Fataga_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "H. Zell",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Barranco_de_Fataga_03.JPG"
+  }
+ },
+ {
+  "id": "tunte",
+  "nome": "Tunte (San Bartolomé)",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Centro",
+  "lat": 27.925251,
+  "lon": -15.572998,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_fataga",
+  "osm": "https://www.openstreetmap.org/node/274975695"
+ },
+ {
+  "id": "arteara",
+  "nome": "Necropoli di Arteara",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Centro",
+  "lat": 27.845575,
+  "lon": -15.569265,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_arteara",
+  "osm": "https://www.openstreetmap.org/way/662696084",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/B090060._Necr%C3%B3polis_de_Arteara._S._Bartolom%C3%A9_de_Tirajana._Gran_Canaria.jpg/500px-B090060._Necr%C3%B3polis_de_Arteara._S._Bartolom%C3%A9_de_Tirajana._Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Jjcabreram",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:B090060._Necr%C3%B3polis_de_Arteara._S._Bartolom%C3%A9_de_Tirajana._Gran_Canaria.jpg"
+  }
+ },
+ {
+  "id": "ansite",
+  "nome": "Fortaleza de Ansite",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Centro",
+  "lat": 27.876625,
+  "lon": -15.521921,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_sorrueda",
+  "osm": "https://www.openstreetmap.org/node/1404680988",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Fortaleza_de_Ansite_de_Tirajana.jpg/500px-Fortaleza_de_Ansite_de_Tirajana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Ycubher",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_Ansite_de_Tirajana.jpg"
+  }
+ },
+ {
+  "id": "santa_lucia",
+  "nome": "Santa Lucía de Tirajana",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Centro",
+  "lat": 27.911547,
+  "lon": -15.54052,
+  "bot": "https://t.me/grancabariantnbot?start=sec_c_santalucia",
+  "osm": "https://www.openstreetmap.org/node/1457833490",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gran_Canaria_Santa_Lucia_iglesia_R01.jpg/500px-Gran_Canaria_Santa_Lucia_iglesia_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Marc Ryckaert",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Gran_Canaria_Santa_Lucia_iglesia_R01.jpg"
+  }
+ },
+ {
+  "id": "playa_ingles",
+  "nome": "Playa del Inglés",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.759481,
+  "lon": -15.574086,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_playa",
+  "osm": "https://www.openstreetmap.org/node/155368035",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gran_Canaria-Maspalomas-04-Playa_del_Ingl%C3%A9s-2015-gje.jpg/500px-Gran_Canaria-Maspalomas-04-Playa_del_Ingl%C3%A9s-2015-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerd Eichmann",
+   "licenza": "CC BY 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Gran_Canaria-Maspalomas-04-Playa_del_Ingl%C3%A9s-2015-gje.jpg"
+  }
+ },
+ {
+  "id": "san_agustin",
+  "nome": "San Agustín",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.768812,
+  "lon": -15.54141,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_sanagustin",
+  "osm": "https://www.openstreetmap.org/way/27504616",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/San_Agustin_Playa_de_las_Burras_A.jpg/500px-San_Agustin_Playa_de_las_Burras_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Wouter Hagens",
+   "licenza": "Public domain",
+   "pagina": "https://commons.wikimedia.org/wiki/File:San_Agustin_Playa_de_las_Burras_A.jpg"
+  }
+ },
+ {
+  "id": "maspalomas",
+  "nome": "Faro di Maspalomas",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Sud",
+  "lat": 27.735209,
+  "lon": -15.598916,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_maspalomas",
+  "osm": "https://www.openstreetmap.org/way/60043460",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GC_Maspalomas_Paseo_de_Meloneras_R01.jpg/500px-GC_Maspalomas_Paseo_de_Meloneras_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Marc Ryckaert (MJJR)",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:GC_Maspalomas_Paseo_de_Meloneras_R01.jpg"
+  }
+ },
+ {
+  "id": "dune",
+  "nome": "Dune di Maspalomas",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Sud",
+  "lat": 27.743883,
+  "lon": -15.582899,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_dune",
+  "osm": "https://www.openstreetmap.org/way/27509214",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/GC_Dunas_de_Maspalomas_R08.jpg/500px-GC_Dunas_de_Maspalomas_R08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Marc Ryckaert (MJJR)",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:GC_Dunas_de_Maspalomas_R08.jpg"
+  }
+ },
+ {
+  "id": "meloneras",
+  "nome": "Meloneras",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.746131,
+  "lon": -15.606073,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_meloneras",
+  "osm": "https://www.openstreetmap.org/node/1441041889",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/GC_Maspalomas_Paseo_de_Meloneras_R02.jpg/500px-GC_Maspalomas_Paseo_de_Meloneras_R02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Marc Ryckaert (MJJR)",
+   "licenza": "CC BY 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:GC_Maspalomas_Paseo_de_Meloneras_R02.jpg"
+  }
+ },
+ {
+  "id": "palmitos",
+  "nome": "Palmitos Park",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Sud",
+  "lat": 27.833996,
+  "lon": -15.617405,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_palmitos",
+  "osm": "https://www.openstreetmap.org/way/270659782",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pyrrhura_leucotis_IMG_3610_Palmitos_Park.jpg/500px-Pyrrhura_leucotis_IMG_3610_Palmitos_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Bjoertvedt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Pyrrhura_leucotis_IMG_3610_Palmitos_Park.jpg"
+  }
+ },
+ {
+  "id": "aqualand",
+  "nome": "Aqualand Maspalomas",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Sud",
+  "lat": 27.778984,
+  "lon": -15.60464,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_aqualand",
+  "osm": "https://www.openstreetmap.org/way/103187758",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Aqualand_Gran_Canaria.JPG/500px-Aqualand_Gran_Canaria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Xengi",
+   "licenza": "Public domain",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Aqualand_Gran_Canaria.JPG"
+  }
+ },
+ {
+  "id": "puerto_rico",
+  "nome": "Puerto Rico",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.784665,
+  "lon": -15.713659,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_puertorico",
+  "osm": "https://www.openstreetmap.org/way/28221677",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Playa_de_los_Amadores_2010.JPG/500px-Playa_de_los_Amadores_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Felix König",
+   "licenza": "CC BY-SA 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Playa_de_los_Amadores_2010.JPG"
+  }
+ },
+ {
+  "id": "amadores",
+  "nome": "Playa de Amadores",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.789918,
+  "lon": -15.723832,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_puertorico",
+  "osm": "https://www.openstreetmap.org/way/28221639"
+ },
+ {
+  "id": "anfi",
+  "nome": "Anfi del Mar",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.772687,
+  "lon": -15.696045,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_anfi",
+  "osm": "https://www.openstreetmap.org/way/23259473",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Anfi_del_Mar.jpg/500px-Anfi_del_Mar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "W. Edlmeier",
+   "licenza": "CC BY-SA 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Anfi_del_Mar.jpg"
+  }
+ },
+ {
+  "id": "arguineguin",
+  "nome": "Arguineguín",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Sud",
+  "lat": 27.759075,
+  "lon": -15.68135,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_arguineguin",
+  "osm": "https://www.openstreetmap.org/node/274980788",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Arguineguin_Grande_Canarie_%282%29_05.jpg/500px-Arguineguin_Grande_Canarie_%282%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Cécile Patry-Morel",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Arguineguin_Grande_Canarie_(2)_05.jpg"
+  }
+ },
+ {
+  "id": "puerto_mogan",
+  "nome": "Puerto de Mogán",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Sud",
+  "lat": 27.817403,
+  "lon": -15.765218,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_mogan",
+  "osm": "https://www.openstreetmap.org/way/52656886",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Puerto_de_mogan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Smtunli,  Svein-Magne Tunli - http://www.tunliweb.no/SM/English/sm_eng.htm",
+   "licenza": "CC BY-SA 3.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Puerto_de_mogan.jpg"
+  }
+ },
+ {
+  "id": "mogan_paese",
+  "nome": "Mogán paese",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Sud",
+  "lat": 27.883827,
+  "lon": -15.722991,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_moganpaese",
+  "osm": "https://www.openstreetmap.org/node/252125587",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mog%C3%A1n_un_bonito_rinc%C3%B3n_Municipio_de_Gran_Canaria_-_Flickr_-_El_Coleccionista_de_Instantes.jpg/500px-Mog%C3%A1n_un_bonito_rinc%C3%B3n_Municipio_de_Gran_Canaria_-_Flickr_-_El_Coleccionista_de_Instantes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "El Coleccionista de Instantes  Fotografía &amp; Video",
+   "licenza": "CC BY-SA 2.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Mog%C3%A1n_un_bonito_rinc%C3%B3n_Municipio_de_Gran_Canaria_-_Flickr_-_El_Coleccionista_de_Instantes.jpg"
+  }
+ },
+ {
+  "id": "guigui",
+  "nome": "Playa de Güigüí",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Sud",
+  "lat": 27.945234,
+  "lon": -15.827859,
+  "bot": "https://t.me/grancabariantnbot?start=sec_s_guigui",
+  "osm": "https://www.openstreetmap.org/way/376393376"
+ },
+ {
+  "id": "guayadeque",
+  "nome": "Barranco de Guayadeque",
+  "tipo": "natura",
+  "icona": "🌋",
+  "zona": "Est",
+  "lat": 27.930031,
+  "lon": -15.46547,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_guayadeque",
+  "osm": "https://www.openstreetmap.org/relation/3320499",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Barranco_de_Guayadeque%2C_in_clouds.jpg/500px-Barranco_de_Guayadeque%2C_in_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerda Arendt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Barranco_de_Guayadeque,_in_clouds.jpg"
+  }
+ },
+ {
+  "id": "aguimes",
+  "nome": "Agüimes",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Est",
+  "lat": 27.904954,
+  "lon": -15.444513,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_aguimes",
+  "osm": "https://www.openstreetmap.org/relation/345127",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Ag%C3%BCimes%2C_Gran_Canaria%2C_Iglesia_de_San_Sebasti%C3%A1n.jpg/500px-Ag%C3%BCimes%2C_Gran_Canaria%2C_Iglesia_de_San_Sebasti%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Gerda Arendt",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Ag%C3%BCimes,_Gran_Canaria,_Iglesia_de_San_Sebasti%C3%A1n.jpg"
+  }
+ },
+ {
+  "id": "ingenio",
+  "nome": "Ingenio",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Est",
+  "lat": 27.918378,
+  "lon": -15.435795,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_ingenio",
+  "osm": "https://www.openstreetmap.org/node/274980779",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ingenio%2C_en_Gran_Canaria_%28Las_Palmas%2C_Espa%C3%B1a%29.jpg/500px-Ingenio%2C_en_Gran_Canaria_%28Las_Palmas%2C_Espa%C3%B1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Mololo",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Ingenio,_en_Gran_Canaria_(Las_Palmas,_Espa%C3%B1a).jpg"
+  }
+ },
+ {
+  "id": "telde",
+  "nome": "Telde",
+  "tipo": "paese",
+  "icona": "🏘️",
+  "zona": "Est",
+  "lat": 27.998454,
+  "lon": -15.416676,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_telde_citta",
+  "osm": "https://www.openstreetmap.org/relation/345437",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bas%C3%ADlica_de_San_Juan_Bautista_-_Telde.jpg/500px-Bas%C3%ADlica_de_San_Juan_Bautista_-_Telde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "psanchez.formacion",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_San_Juan_Bautista_-_Telde.jpg"
+  }
+ },
+ {
+  "id": "spiagge_telde",
+  "nome": "Playa de Melenara (spiagge di Telde)",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Est",
+  "lat": 27.988074,
+  "lon": -15.376265,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_telde",
+  "osm": "https://www.openstreetmap.org/node/1278759573",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Csm_Gran-Canaria-La-Garita-_52199cf1f0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Soniahmoreno",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Csm_Gran-Canaria-La-Garita-_52199cf1f0.jpg"
+  }
+ },
+ {
+  "id": "pozo",
+  "nome": "Pozo Izquierdo",
+  "tipo": "spiaggia",
+  "icona": "🏖️",
+  "zona": "Est",
+  "lat": 27.824951,
+  "lon": -15.423023,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_pozo",
+  "osm": "https://www.openstreetmap.org/way/241380729",
+  "foto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pozo_Izquierdo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "autore": "Luomomi",
+   "licenza": "CC0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Pozo_Izquierdo.jpg"
+  }
+ },
+ {
+  "id": "cocodrilo",
+  "nome": "Cocodrilo Park",
+  "tipo": "attrazione",
+  "icona": "🏛️",
+  "zona": "Est",
+  "lat": 27.887014,
+  "lon": -15.466639,
+  "bot": "https://t.me/grancabariantnbot?start=sec_e_cocodrilo",
+  "osm": "https://www.openstreetmap.org/way/53152773",
+  "foto": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Crocodylus_niloticus_in_Gran_Canaria.jpg/500px-Crocodylus_niloticus_in_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "autore": "Frankie Fouganthin",
+   "licenza": "CC BY-SA 4.0",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_in_Gran_Canaria.jpg"
+  }
+ },
+ {
+  "id": "t_roque_nublo",
+  "nome": "S-70 Roque Nublo",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Centro",
+  "lat": 27.965506,
+  "lon": -15.601564,
+  "bot": "https://t.me/grancabariantnbot?start=trek_roque_nublo",
+  "osm": "https://www.openstreetmap.org/way/365102160"
+ },
+ {
+  "id": "t_tejeda_nublo",
+  "nome": "Tejeda – Roque Nublo – La Culata",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Centro",
+  "lat": 27.977156,
+  "lon": -15.600617,
+  "bot": "https://t.me/grancabariantnbot?start=trek_tejeda_roque_nublo",
+  "osm": "https://www.openstreetmap.org/node/666361524"
+ },
+ {
+  "id": "t_s79",
+  "nome": "S-79 Tasartico ↔ Güigüí",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Sud",
+  "lat": 27.928877,
+  "lon": -15.817744,
+  "bot": "https://t.me/grancabariantnbot?start=trek_s79_guigui",
+  "osm": "https://www.openstreetmap.org/node/94258546"
+ },
+ {
+  "id": "t_bandama",
+  "nome": "Caldera de Bandama",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Las Palmas",
+  "lat": 28.037514,
+  "lon": -15.45785,
+  "bot": "https://t.me/grancabariantnbot?start=trek_bandama",
+  "osm": "https://www.openstreetmap.org/node/663724821"
+ },
+ {
+  "id": "t_pilancones",
+  "nome": "Pilancones, sentieri nel pinar",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Centro",
+  "lat": 27.857831,
+  "lon": -15.602338,
+  "bot": "https://t.me/grancabariantnbot?start=trek_pilancones",
+  "osm": "https://www.openstreetmap.org/way/32398199"
+ },
+ {
+  "id": "t_tamadaba",
+  "nome": "Tamadaba, pinete sopra il mare",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Nord-ovest",
+  "lat": 28.053717,
+  "lon": -15.691944,
+  "bot": "https://t.me/grancabariantnbot?start=trek_tamadaba",
+  "osm": "https://www.openstreetmap.org/node/3993282487"
+ },
+ {
+  "id": "t_palmita",
+  "nome": "La Palmita – Tamadaba",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Nord-ovest",
+  "lat": 28.061558,
+  "lon": -15.658904,
+  "bot": "https://t.me/grancabariantnbot?start=trek_palmita_tamadaba",
+  "osm": "https://www.openstreetmap.org/node/1400793505"
+ },
+ {
+  "id": "t_guayadeque",
+  "nome": "Barranco de Guayadeque a piedi",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Est",
+  "lat": 27.93509,
+  "lon": -15.510641,
+  "bot": "https://t.me/grancabariantnbot?start=trek_guayadeque",
+  "osm": "https://www.openstreetmap.org/node/3700651138"
+ },
+ {
+  "id": "t_arteara",
+  "nome": "Arteara e il barranco de Fataga",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Centro",
+  "lat": 27.848747,
+  "lon": -15.567563,
+  "bot": "https://t.me/grancabariantnbot?start=trek_arteara_fataga",
+  "osm": "https://www.openstreetmap.org/node/274975691"
+ },
+ {
+  "id": "t_marteles",
+  "nome": "Caldera de Los Marteles",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Centro",
+  "lat": 27.957315,
+  "lon": -15.532868,
+  "bot": "https://t.me/grancabariantnbot?start=trek_marteles",
+  "osm": "https://www.openstreetmap.org/way/399625687"
+ },
+ {
+  "id": "t_doramas",
+  "nome": "Firgas – Doramas – Valleseco",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Nord",
+  "lat": 28.107061,
+  "lon": -15.563177,
+  "bot": "https://t.me/grancabariantnbot?start=trek_doramas_firgas_valleseco",
+  "osm": "https://www.openstreetmap.org/way/41920246"
+ },
+ {
+  "id": "t_mogan",
+  "nome": "Puerto de Mogán e Amadores",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Sud",
+  "lat": 27.817403,
+  "lon": -15.765218,
+  "bot": "https://t.me/grancabariantnbot?start=trek_mogan_amadores",
+  "osm": "https://www.openstreetmap.org/way/52656886"
+ },
+ {
+  "id": "t_canteras",
+  "nome": "Las Canteras ↔ El Confital",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Las Palmas",
+  "lat": 28.148756,
+  "lon": -15.432545,
+  "bot": "https://t.me/grancabariantnbot?start=trek_canteras_confital",
+  "osm": "https://www.openstreetmap.org/way/37502322"
+ },
+ {
+  "id": "t_vegueta",
+  "nome": "Vegueta ↔ Triana",
+  "tipo": "trek",
+  "icona": "🥾",
+  "zona": "Las Palmas",
+  "lat": 28.105282,
+  "lon": -15.415945,
+  "bot": "https://t.me/grancabariantnbot?start=trek_vegueta_triana",
+  "osm": "https://www.openstreetmap.org/way/31262487"
+ }
+]
