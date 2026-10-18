@@ -125,6 +125,12 @@ function km(a, b) {
   const h = Math.sin(r(b.lat - a.lat) / 2) ** 2 + Math.cos(r(a.lat)) * Math.cos(r(b.lat)) * Math.sin(r(b.lon - a.lon) / 2) ** 2;
   return 2 * R * Math.asin(Math.sqrt(h));
 }
+// centra il posto nella parte di mappa lasciata libera dalla scheda (in alto)
+function mostra(p, zoom) {
+  const z = Math.max(map.getZoom(), zoom || 13);
+  const pt = map.project([p.lat, p.lon], z).add([0, map.getSize().y * 0.25]);
+  map.setView(map.unproject(pt, z), z);
+}
 const dist = p => me ? ` · ${km(me, p).toFixed(1).replace(".", ",")} km` : "";
 const visibile = p => attivi.has(p.tipo) && (!zona || p.zona === zona);
 
@@ -132,7 +138,7 @@ function disegna() {
   markers.forEach(m => m.remove());
   markers = posti.filter(visibile).map(p => L.marker([p.lat, p.lon], {
       title: p.nome, icon: L.divIcon({className: "", html: `<div class="pin">${p.icona}</div>`, iconSize: [24, 24], iconAnchor: [12, 12]})
-    }).on("click", () => { scheda(p); map.panTo([p.lat, p.lon]); }).addTo(map));
+    }).on("click", () => { scheda(p); mostra(p); }).addTo(map));
 }
 
 function vicini() {
@@ -140,7 +146,7 @@ function vicini() {
   apri(`<h2>📍 Vicino a te</h2><ul class="near">${lista.map(([d, p], i) =>
     `<li data-i="${i}"><span>${p.icona} ${esc(p.nome)}</span><span>${d.toFixed(1).replace(".", ",")} km</span></li>`).join("")}</ul>`);
   sheet.querySelectorAll("li").forEach(li => li.onclick = () => {
-    const p = lista[+li.dataset.i][1]; map.setView([p.lat, p.lon], 14); scheda(p); });
+    const p = lista[+li.dataset.i][1]; scheda(p); mostra(p, 14); });
 }
 
 document.getElementById("vicino").onclick = () => {
