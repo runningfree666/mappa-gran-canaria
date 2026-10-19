@@ -41,6 +41,10 @@
     background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
     background-position: calc(100% - 12px) 55%, calc(100% - 7px) 55%; background-size: 5px 5px; background-repeat: no-repeat; }
   #map { flex: 1; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-top: 10px; }
+  .stats div { background: var(--card); border-radius: 10px; padding: 7px 4px; text-align: center; font-size: 12px; color: var(--muted); }
+  .stats b { display: block; font-size: 16px; color: var(--fg); }
+  .endpin { font-size: 18px; line-height: 1; filter: drop-shadow(0 1px 2px rgba(0,0,0,.45)); }
   .pin { font-size: 22px; line-height: 1; filter: drop-shadow(0 1px 2px rgba(0,0,0,.45)); }
   .me { width: 16px; height: 16px; border-radius: 50%; background: #2f7de1; border: 3px solid #fff;
     box-shadow: 0 0 0 6px rgba(47,125,225,.25); }
@@ -87,7 +91,8 @@ if (tg && tg.initData !== undefined) { tg.ready(); tg.expand(); }
 const TIPI = {attrazione: "🏛️ Attrazioni", museo: "🖼️ Musei", paese: "🏘️ Paesi",
               spiaggia: "🏖️ Spiagge", natura: "🌋 Natura", trek: "🥾 Trek"};
 const attivi = new Set(Object.keys(TIPI));
-let zona = "", posti = [], markers = [], me = null;
+let zona = "", posti = [], markers = [], linee = [], estremi = [], me = null;
+const TRACCIA = {color: "#d9480f", weight: 4, opacity: .85};
 
 const map = L.map("map", {zoomControl: false}).setView([27.96, -15.6], 10);
 L.control.zoom({position: "bottomright"}).addTo(map);
@@ -110,12 +115,21 @@ function vaiLink(url, telegram) {
 function scheda(p) {
   const f = p.foto;
   const img = f ? `<img class="sheet-img" src="${esc(f.url)}" alt="${esc(p.nome)}" loading="lazy">` : "";
-  const nota = p.tipo === "trek" ? `<div class="note">📍 Punto indicativo: zona del percorso, non la partenza esatta. Dettagli e partenza nella scheda del bot.</div>` : "";
+  const t = p.traccia;
+  const nota = t ? `<div class="note">🥾 ${esc(t.nome)} · il segnaposto è la partenza della traccia GPX.</div>
+      <div class="stats"><div><b>${String(t.km).replace(".", ",")}</b>km</div><div><b>+${t.salita}</b>m salita</div>
+      <div><b>−${t.discesa}</b>m discesa</div><div><b>${t.quota_max}</b>m max</div></div>`
+    : p.tipo === "trek" ? `<div class="note">📍 Punto indicativo: zona del percorso, non la partenza esatta. Dettagli e partenza nella scheda del bot.</div>` : "";
+  const btnT = t ? `<div class="btns"><button class="btn" id="b-trk">🥾 Mostra percorso</button>${t.fonte ? '<button class="btn" id="b-gpx">⬇️ GPX (Wikiloc)</button>' : ""}</div>` : "";
   const cred = f ? `<div class="credit">Foto: ${esc(f.autore)} · ${esc(f.licenza)} · <a href="${esc(f.pagina)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>` : "";
   apri(`${img}<h2>${p.icona} ${esc(p.nome)}</h2><div class="meta">${esc(TIPI[p.tipo].split(" ").slice(1).join(" "))} · ${esc(p.zona)}${dist(p)}</div>${nota}
-    <div class="btns"><button class="btn primary" id="b-bot">📖 Apri nel bot</button><button class="btn" id="b-nav">🧭 Portami qui</button></div>
-    ${cred}<div class="credit">Posizione: <a href="${esc(p.osm)}" target="_blank" rel="noopener">OpenStreetMap</a></div>`);
+    <div class="btns"><button class="btn primary" id="b-bot">📖 Apri nel bot</button><button class="btn" id="b-nav">🧭 Portami qui</button></div>${btnT}
+    ${cred}${t && t.fonte ? `<div class="credit">Traccia: <a href="${esc(t.fonte)}" target="_blank" rel="noopener">Wikiloc</a></div>` : ""}${t ? "" : `<div class="credit">Posizione: <a href="${esc(p.osm)}" target="_blank" rel="noopener">OpenStreetMap</a></div>`}`);
   document.getElementById("b-bot").onclick = () => vaiLink(p.bot, true);
+  if (t) {
+    document.getElementById("b-trk").onclick = () => percorso(p);
+    if (t.fonte) document.getElementById("b-gpx").onclick = () => vaiLink(t.fonte, false);
+  }
   document.getElementById("b-nav").onclick = () =>
     vaiLink(`https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lon}`, false);
 }
@@ -134,8 +148,20 @@ function mostra(p, zoom) {
 const dist = p => me ? ` · ${km(me, p).toFixed(1).replace(".", ",")} km` : "";
 const visibile = p => attivi.has(p.tipo) && (!zona || p.zona === zona);
 
+// percorso intero: zoom sulla linea (spazio in basso per la scheda), partenza 🟢 e arrivo 🏁
+function percorso(p) {
+  estremi.forEach(m => m.remove());
+  const l = p.traccia.linea, ico = h => L.divIcon({className: "", html: `<div class="endpin">${h}</div>`, iconSize: [20, 20], iconAnchor: [10, 10]});
+  estremi = [L.marker(l[0], {icon: ico("🟢"), title: "Partenza"}).addTo(map),
+             L.marker(l[l.length - 1], {icon: ico("🏁"), title: "Arrivo"}).addTo(map)];
+  map.fitBounds(L.latLngBounds(l), {paddingTopLeft: [30, 30], paddingBottomRight: [30, map.getSize().y * 0.55]});
+}
+
 function disegna() {
   markers.forEach(m => m.remove());
+  linee.forEach(l => l.remove());
+  linee = posti.filter(p => p.traccia && visibile(p)).map(p =>
+    L.polyline(p.traccia.linea, TRACCIA).on("click", e => { L.DomEvent.stopPropagation(e); scheda(p); percorso(p); }).addTo(map));
   markers = posti.filter(visibile).map(p => L.marker([p.lat, p.lon], {
       title: p.nome, icon: L.divIcon({className: "", html: `<div class="pin">${p.icona}</div>`, iconSize: [24, 24], iconAnchor: [12, 12]})
     }).on("click", () => { scheda(p); mostra(p); }).addTo(map));
