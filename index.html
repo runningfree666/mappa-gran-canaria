@@ -118,7 +118,8 @@ function scheda(p) {
   const t = p.traccia;
   const nota = t ? `<div class="note">🥾 ${esc(t.nome)} · il segnaposto è la partenza della traccia GPX.</div>
       <div class="stats"><div><b>${String(t.km).replace(".", ",")}</b>km</div><div><b>+${t.salita}</b>m salita</div>
-      <div><b>−${t.discesa}</b>m discesa</div><div><b>${t.quota_max}</b>m max</div></div>`
+      <div><b>−${t.discesa}</b>m discesa</div><div><b>${t.quota_max}</b>m max</div></div>
+      ${t.durata ? `<div class="meta" style="margin-top:6px">⏱️ ${esc(t.durata)} sola andata${t.difficolta ? " · difficoltà " + esc(t.difficolta) : ""} · dati Wikiloc</div>` : ""}`
     : p.tipo === "trek" ? `<div class="note">📍 Punto indicativo: zona del percorso, non la partenza esatta. Dettagli e partenza nella scheda del bot.</div>` : "";
   const btnT = t ? `<div class="btns"><button class="btn" id="b-trk">🥾 Mostra percorso</button>${t.fonte ? '<button class="btn" id="b-gpx">⬇️ GPX (Wikiloc)</button>' : ""}</div>` : "";
   const cred = f ? `<div class="credit">Foto: ${esc(f.autore)} · ${esc(f.licenza)} · <a href="${esc(f.pagina)}" target="_blank" rel="noopener">Wikimedia Commons</a></div>` : "";

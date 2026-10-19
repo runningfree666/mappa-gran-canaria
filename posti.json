@@ -1368,11 +1368,13 @@
      -15.828018
     ]
    ],
-   "km": 5.5,
-   "salita": 352,
-   "discesa": 573,
-   "quota_max": 554,
-   "fonte": "https://www.wikiloc.com/hiking-trails/gran-canaria-guigui-tasartico-31037786"
+   "km": 5.82,
+   "salita": 440,
+   "discesa": 650,
+   "quota_max": 556,
+   "fonte": "https://www.wikiloc.com/hiking-trails/gran-canaria-guigui-tasartico-31037786",
+   "durata": "3 h 40 min",
+   "difficolta": "difficile"
   }
  },
  {
